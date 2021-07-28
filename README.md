@@ -3,7 +3,8 @@
 INSTALLATION :
 
 1. Clone the repository.
-2. From the root folder of the repository, open cmd and run "npm install".
+2. Install nodemon using command "npm install nodemon".
+3. From the root folder of the repository, open cmd and run "npm install".
 
 STARTING THE SERVER :
 
